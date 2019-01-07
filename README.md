@@ -1,2 +1,2 @@
 # hello-world
-Leave it here. This repo is no important  >_&lt;
+Leave it here. This repo is not important  >_&lt;
